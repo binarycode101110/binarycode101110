@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Zura Phutkaradze/@binarycode101110
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Web and Game Development
+- 🌱 I’m currently learning JavaScript, LUA, Java
 - 📫 How to reach me : zuraphutkaradze11@gmail.com
-- 😄 Pronouns: He/Him (There is only 2)
+- 😄 Pronouns: He/Him
 
 <!---
 binarycode101110/binarycode101110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
